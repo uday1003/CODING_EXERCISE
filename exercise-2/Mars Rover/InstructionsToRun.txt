@@ -1,0 +1,12 @@
+1.Create a Java Project:
+Open your IDE and create a new Java project.
+
+2.Add Classes:
+ download all the classes and add to the project.
+
+3.Compile the Code
+
+4.Run the Application:
+
+5.Interact with the Application:
+
